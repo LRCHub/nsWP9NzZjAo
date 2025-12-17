@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "LiSA 『紅蓮華』 -MUSiC CLiP YouTube EDIT ver.-",
+  "base_artist": "LiSA",
+  "createdAt": "2025-12-17T03:50:19.911497Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lisa",
+      "artist": "Le1f",
+      "has_synced": true,
+      "path": "select/01_Lisa_Le1f.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lisa Says",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/02_Lisa_Says_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Not Lisa",
+      "artist": "Jessi Colter",
+      "has_synced": true,
+      "path": "select/03_I'm_Not_Lisa_Jessi_Colter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Not Lisa",
+      "artist": "Jessi Colter",
+      "has_synced": true,
+      "path": "select/04_I'm_Not_Lisa_Jessi_Colter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/05_Mona_Lisa_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mona Lisa (Single Version)",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/06_Mona_Lisa_(Single_Version)_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Wyclef Jean feat. Refugee Allstars",
+      "has_synced": true,
+      "path": "select/07_Mona_Lisa_Wyclef_Jean_feat._Refugee_Allstars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Wyclef Jean",
+      "has_synced": true,
+      "path": "select/08_Mona_Lisa_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mona Lisa (feat. Kendrick Lamar)",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/09_Mona_Lisa_(feat._Kendrick_Lamar)_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mona Lisa Overdrive",
+      "artist": "Lil Ugly Mane",
+      "has_synced": true,
+      "path": "select/10_Mona_Lisa_Overdrive_Lil_Ugly_Mane.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Anytime Lisa",
+      "artist": "Was (Not Was)",
+      "has_synced": true,
+      "path": "select/11_Anytime_Lisa_Was_(Not_Was).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just We Two (Mona Lisa)",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/12_Just_We_Two_(Mona_Lisa)_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mona Lisa Smiles",
+      "artist": "Jane Child",
+      "has_synced": false,
+      "path": "select/13_Mona_Lisa_Smiles_Jane_Child.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Atlas Sound",
+      "has_synced": true,
+      "path": "select/14_Mona_Lisa_Atlas_Sound.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Luck (feat. Lisa Kekaula)",
+      "artist": "Basement Jaxx feat. Lisa Kekaula",
+      "has_synced": false,
+      "path": "select/15_Good_Luck_(feat._Lisa_Kekaula)_Basement_Jaxx_feat._Lisa_Kekaula.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Luck (feat. Lisa Kekaula)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/16_Good_Luck_(feat._Lisa_Kekaula)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Luck (feat. Lisa Kekaula) (Summer Bootleg Version)",
+      "artist": "Basement Jaxx",
+      "has_synced": true,
+      "path": "select/17_Good_Luck_(feat._Lisa_Kekaula)_(Summer_Bootleg_Version)_Basement_Jaxx.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/18_Mona_Lisa_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/19_紅蓮華_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/20_紅蓮華_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "紅蓮華 -TV ver.-",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/21_紅蓮華_-TV_ver.-_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/22_紅蓮華_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "紅蓮華 - From THE FIRST TAKE",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/23_紅蓮華_-_From_THE_FIRST_TAKE_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/24_紅蓮華_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "紅蓮華 - Gurenge",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/25_紅蓮華_-_Gurenge_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "紅蓮華 -TV ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/26_紅蓮華_-TV_ver.-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/27_紅蓮華_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "紅蓮華 - From THE FIRST TAKE",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/28_紅蓮華_-_From_THE_FIRST_TAKE_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "紅蓮華 -TV ver.- - Gurenge (TV Version)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/29_紅蓮華_-TV_ver.-_-_Gurenge_(TV_Version)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Gurenge (紅蓮華) / THE FIRST TAKE",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/30_Gurenge_(紅蓮華)___THE_FIRST_TAKE_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/31_紅蓮華_LiSA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_紅蓮華_LiSA.txt"
+    }
+  ]
+}
